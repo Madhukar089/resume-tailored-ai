@@ -1,0 +1,22 @@
+# Java / Maven
+target/
+.idea/
+*.iml
+
+# Node
+resumeTailoredAI-frontend/node_modules/
+resumeTailoredAI-frontend/dist/
+resumeTailoredAI-frontend/.idea/
+resumeTailoredAI-frontend/*.iml
+
+# Environment files
+.env
+*.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
